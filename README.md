@@ -57,4 +57,4 @@ Dataset is not included in this repository.
 
 👩‍💻 Author
 Elham Khatim  
-Data Analyst | Data Science Graduate
+Data Analyst | Data Science Graduat
