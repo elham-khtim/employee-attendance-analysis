@@ -51,6 +51,10 @@ The project demonstrates how data analysis can be used to:
 
 ---
 
+## 📌 Note
+Dataset is not included in this repository.
+---
+
 👩‍💻 Author
 Elham Khatim  
 Data Analyst | Data Science Graduate
